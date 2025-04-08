@@ -38,6 +38,18 @@ Built using **Next.js**, **LLaMA via Hugging Face**, **Material UI**, and **Next
 
 ---
 
+## Demo
+
+![image](https://github.com/user-attachments/assets/f0d98f15-417a-4700-9bac-d07d64caf40d)
+
+![Screenshot 2025-04-08 191335](https://github.com/user-attachments/assets/6ce306f5-d481-4ff5-89d4-ea7abbdf8568)
+
+![Screenshot 2025-04-08 191949](https://github.com/user-attachments/assets/e370c924-4ae3-462d-b90b-484a565dec85)
+
+![Screenshot 2025-04-08 192019](https://github.com/user-attachments/assets/25279367-8e11-4e2a-a0d2-8fe08dc98cf8) 
+
+
+
 ## 🔧 Setup Instructions
 
 ```bash
@@ -57,10 +69,7 @@ npm install
 # 4. Run the development server
 npm run dev
 
-![image](https://github.com/user-attachments/assets/ffbf9aac-34d2-4437-99bd-749dec9ebb56)
-![image](https://github.com/user-attachments/assets/63f4f200-32f1-48c7-a311-031e5b402808)
-![image](https://github.com/user-attachments/assets/12e426b7-687c-4625-b62c-31d44d41635f)
-![image](https://github.com/user-attachments/assets/83f22992-5345-4f60-8137-a87baa8f38b5)
+
 
 
 
